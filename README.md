@@ -3,3 +3,4 @@ Crea un repositori
 
 ## Pàgines classe
 * [Pàgina classe 2GP](http://arquesm.github.io/2GP/)
+* [Llenguatge etiquetes](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
